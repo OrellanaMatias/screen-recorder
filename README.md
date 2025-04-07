@@ -7,8 +7,6 @@
 
 Una aplicación web moderna para grabar tu pantalla directamente desde el navegador. Sin registro, sin instalación, solo graba y descarga.
 
-![Imagen de muestra del Grabador de Pantalla](https://via.placeholder.com/1200x630/3182ce/FFFFFF?text=Grabador+de+Pantalla+Web)
-
 ## ✨ Características
 
 - 🖥️ **Grabación Instantánea**: Graba tu pantalla completa, ventana o pestaña específica
@@ -20,10 +18,6 @@ Una aplicación web moderna para grabar tu pantalla directamente desde el navega
 - 💾 **Descarga Inmediata**: Sin almacenamiento en la nube, todo queda en tu dispositivo
 - 🌗 **Modo Oscuro/Claro**: Se adapta a tus preferencias
 - 📱 **Responsive**: Funciona en dispositivos móviles y de escritorio
-
-## 🚀 Demo
-
-Prueba la aplicación en vivo: [URL de la demo](https://screen-recorder-web-demo.vercel.app)
 
 ## 🛠️ Tecnologías
 
