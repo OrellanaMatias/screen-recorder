@@ -13,8 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Grabador de Pantalla Web | Graba sin instalar nada",
+  title: "Screen Recorder",
   description: "Graba tu pantalla de forma sencilla sin necesidad de instalaciones ni registros. Graba, descarga y comparte tus videos fácilmente.",
+  keywords: "grabador de pantalla, screen recorder, grabación de pantalla online, grabar pantalla sin instalar, captura de pantalla web",
+  authors: [{ name: "Matias Orellana" }],
+  creator: "Matias Orellana",
+  openGraph: {
+    title: "Screen Recorder",
+    description: "Graba tu pantalla directamente desde el navegador, sin descargas ni registros",
+    type: "website",
+    locale: "es_ES",
+  },
 };
 
 export default function RootLayout({
@@ -23,7 +32,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="es">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
